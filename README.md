@@ -1,6 +1,6 @@
 # BasicPhoneBook
 Basic Phone Book With Python
 
-There is no Exception in this project. 
+Remember there is no EXEPTION in this project. 
 
 
